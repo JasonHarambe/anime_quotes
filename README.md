@@ -10,5 +10,5 @@ Check out the GitHub: https://github.com/RocktimSaikia/anime-chan
 
 ## 
 <img src="demo.png" width="250">
-<img src="demo.png" width="250">
+<img src="demo2.png" width="250">
 
