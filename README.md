@@ -9,6 +9,6 @@ Check out the GitHub: https://github.com/RocktimSaikia/anime-chan
 - http
 
 ## 
-<img src="demo.png" width="200">
-<img src="demo.png" width="200">
+<img src="demo.png" width="250">
+<img src="demo.png" width="250">
 
