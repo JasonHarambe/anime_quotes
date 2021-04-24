@@ -10,4 +10,5 @@ Check out the GitHub: https://github.com/RocktimSaikia/anime-chan
 
 ## 
 ![demo](demo.png)
+<img src="demo.png" width="30" height="30">
 ![demo_2](demo2.png)
