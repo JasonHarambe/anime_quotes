@@ -12,6 +12,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: 'Flutter Demo',
       theme: new ThemeData(scaffoldBackgroundColor: Colors.amber[100]),
       home: MyHomePage(),
@@ -110,7 +111,8 @@ class _MyHomePageState extends State<MyHomePage> {
                   margin: EdgeInsets.only(bottom: 20.0),
                   width: 120,
                   height: 50,
-                  color: Colors.yellow,
+                  decoration: BoxDecoration(
+                      borderRadius: BorderRadius.all(Radius.circular(14))),
                   child: ElevatedButton(
                     style: ElevatedButton.styleFrom(
                       elevation: 4.0,
